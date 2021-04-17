@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+⚡ python 
+
+✍️ [blogger](https://pengqi.xyz)
+
+🔭 [home](https://i.pengqi.xyz/)
